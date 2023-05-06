@@ -1,0 +1,6 @@
+[submodule "oatpp"]
+	path = oatpp
+	url = https://github.com/oatpp/oatpp
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
